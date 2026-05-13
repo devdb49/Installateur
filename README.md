@@ -1,3 +1,3 @@
-# Installeur JudoApp
+# Installateur JudoApp
 
 Application 'Installateur.ipa' pour installer les IPA Judo depuis Github.
